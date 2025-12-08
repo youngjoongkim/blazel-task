@@ -1,0 +1,26 @@
+primary_content_type,length_category,avg_engagement,post_count
+Article,Long,266.33,496
+Article,Medium,229.08,559
+Article,Short,153.08,359
+Article,Very Long,530.46,135
+Article,Very Short,144.06,70
+Image,Long,412.49,1213
+Image,Medium,456.38,1304
+Image,Short,360.15,738
+Image,Very Long,627.24,574
+Image,Very Short,301.55,139
+Reshare,Long,126.48,207
+Reshare,Medium,65.63,580
+Reshare,Short,47.58,1000
+Reshare,Very Long,269.46,26
+Reshare,Very Short,37.26,592
+Text Only,Long,362.02,491
+Text Only,Medium,496.52,403
+Text Only,Short,203.09,269
+Text Only,Very Long,534.93,297
+Text Only,Very Short,254.83,29
+Video,Long,528.19,552
+Video,Medium,377.56,508
+Video,Short,287.84,252
+Video,Very Long,681.27,270
+Video,Very Short,206.74,35

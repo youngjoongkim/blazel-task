@@ -1,0 +1,19 @@
+KEY FINDINGS: CONTENT ANALYSIS (Parts 1-4)
+======================================================================
+1. HASHTAGS: Posts with 0 hashtags (330) vs 1 hashtag (229)
+   - Best hashtag: #funding (760 avg engagement)
+2. EMOJIS: Posts with 0 emojis (354) vs 1-2 emojis (252)
+   - Best emoji: ⚡ (617 avg)
+   - Worst emoji: 📅 (97 avg)
+3. MENTIONS:
+   - No Mentions: 410 avg engagement
+   - Person Mentions Only: 270 avg engagement
+   - Company Mentions Only: 339 avg engagement
+   - Both: 264 avg engagement
+4. URLS:
+   - LinkedIn Native: 440 avg engagement (2589 posts)
+   - Link Shortener: 378 avg engagement (149 posts)
+   - External Direct: 368 avg engagement (256 posts)
+   - No URL: 290 avg engagement (8233 posts)
+5. Most mentioned person: Jordan Mazer (154 mentions)
+6. Most mentioned company: Andreessen Horowitz (673 mentions)

@@ -1,0 +1,55 @@
+KEY FINDINGS: CONTENT ANALYSIS (All Parts)
+======================================================================
+
+1. HASHTAGS:
+   - 16.9% of posts contain hashtags (1,902 posts)
+   - Posts WITHOUT hashtags: 330 avg engagement
+   - Posts WITH hashtags: 318 avg engagement
+   - Best performing: 6+ hashtags
+
+2. EMOJIS:
+   - 34.8% of posts contain emojis (3,912 posts)
+   - Posts WITHOUT emojis: 354 avg engagement
+   - Posts WITH emojis: 278 avg engagement
+
+3. MENTIONS:
+   - 66.6% of posts contain mentions (7,473 posts)
+   - Posts WITHOUT mentions: 410 avg engagement
+   - Posts WITH mentions: 286 avg engagement
+
+4. URLs:
+   - Highest engagement: LinkedIn Native (440 avg)
+   - Posts with URLs: 2,994
+
+5. QUESTIONS:
+   - 19.1% of posts contain questions
+   - With question: 343 avg engagement
+   - Without question: 324 avg engagement
+
+6. CALL-TO-ACTION:
+   - 24.1% of posts contain CTAs
+
+7. POST STRUCTURE:
+   - Best performing: Empty (656 avg engagement)
+
+8. CONTENT CATEGORIES (100 LLM-classified sample posts):
+   - Most common: Industry Analysis/Thought Leadership (35 posts)
+   - Highest engagement: Personal Story/Journey (1768 avg)
+
+9. WRITING STYLE:
+   - Most common: Neutral/Impersonal (7,179 posts)
+   - Highest engagement: Collective (We/Our) (528 avg)
+
+10. SENTIMENT:
+   - Average sentiment score: 0.220 (slightly positive)
+   - Highest engagement: Very Positive (245 avg)
+
+======================================================================
+KEY INSIGHTS:
+======================================================================
+• Hashtags, emojis, and mentions can reduce engagement - use sparingly
+• LinkedIn native URLs perform better than external links
+• Questions and CTAs encourage interaction
+• Post structure matters - optimal length varies by content type
+• Writing style impacts engagement - personal vs. professional tone
+• Sentiment tends slightly positive across all posts

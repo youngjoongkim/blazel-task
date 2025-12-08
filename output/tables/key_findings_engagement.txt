@@ -1,0 +1,11 @@
+KEY FINDINGS: ENGAGEMENT ANALYSIS
+======================================================================
+1. Optimal Post Length: 2600-2800 characters (Avg engagement: 744)
+2. Video content leads in engagement but is it statistically significant?
+   - Video vs Image: p=0.0115, Effect: Small
+3. URLs boost engagement by 48.3% (p=0.0000)
+4. Top URL hosts: lnkd.in, bit.ly, lu.ma
+5. Comment-to-Like ratio varies by content:
+   - Highest: Poll (1.857)
+6. Follower count correlation with engagement: 0.506 (moderate positive)
+7. Viral posts (top 1%) have 982 avg chars

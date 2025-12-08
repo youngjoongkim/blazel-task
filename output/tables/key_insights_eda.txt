@@ -1,0 +1,11 @@
+KEY INSIGHTS FROM EXPLORATORY ANALYSIS
+======================================================================
+1. Best Content Type: Video (Avg engagement: 461.2)
+2. Optimal Post Length: Empty (Avg engagement: 655.6)
+   - Posts with Questions have 5.7% higher engagement
+   - Posts with URLs have 48.3% higher engagement
+   - Posts with Emojis have 18.9% lower engagement
+3. Most Active Posting Day: Tuesday
+4. Most Active Posting Hour: 16:00
+5. Engagement Distribution: Highly skewed (Mean: 327.7, Median: 115.0)
+6. Top Author: Deedy Das (568 posts, 382681 total engagement)

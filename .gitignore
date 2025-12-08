@@ -1,0 +1,5 @@
+.venv/
+.claude/
+
+dataset_linkedin-post_2025-11-23_06-22-48-536.json
+output/tables/linkedin_posts_cleaned.csv

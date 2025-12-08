@@ -1,0 +1,13 @@
+Column,Missing_Count,Missing_Percent,Data_Type
+authorFollowersCount,10081,89.79,float64
+activityDescription,7046,62.76,object
+author_publicId,1163,10.36,object
+author_occupation,1163,10.36,object
+author_id,1163,10.36,object
+authorHeadline,1146,10.21,object
+authorProfilePicture,816,7.27,object
+type,69,0.61,object
+author_lastName,17,0.15,object
+author_firstName,17,0.15,object
+author_fullName,17,0.15,object
+text,14,0.12,object

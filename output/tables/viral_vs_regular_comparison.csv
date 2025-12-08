@@ -1,0 +1,7 @@
+Feature,Viral_Mean,Regular_Mean,Difference_%
+text_length,981.86,516.32,90.2
+has_url,0.45,0.23,95.7
+has_question,0.19,0.17,11.8
+has_emoji,0.17,0.29,-41.4
+has_hashtag,0.09,0.17,-47.1
+num_images,0.73,0.38,92.1

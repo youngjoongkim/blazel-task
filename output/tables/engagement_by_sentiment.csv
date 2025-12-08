@@ -1,0 +1,6 @@
+sentiment_category,Avg_Engagement,Median_Engagement,Post_Count,Avg_Likes,Avg_Shares,Avg_Comments
+Very Positive,244.85,79.0,2949,219.27,8.58,17.0
+Positive,384.97,138.0,5485,336.43,17.2,31.34
+Neutral,303.31,116.0,2487,261.94,12.58,28.8
+Negative,342.8,100.0,193,303.89,8.79,30.13
+Very Negative,250.61,69.5,54,226.33,6.46,17.81

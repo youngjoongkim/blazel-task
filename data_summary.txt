@@ -1,0 +1,473 @@
+File: dataset_linkedin-post_2025-11-23_06-22-48-536.json
+File size: 87,473,310 bytes (83.42 MB)
+================================================================================
+
+Reading JSON file...
+
+笨・Data is a LIST with 11227 items
+
+Analyzing 11227 items...
+================================================================================
+
+Structure of first item (type: dict):
+  Keys: ['type', 'images', 'isActivity', 'urn', 'url', 'timeSincePosted', 'shareUrn', 'text', 'attributes', 'comments', 'reactions', 'numShares', 'numLikes', 'numComments', 'canReact', 'canPostComments', 'canShare', 'commentingDisabled', 'allowedCommentersScope', 'rootShare', 'shareAudience', 'author', 'authorProfileId', 'authorProfilePicture', 'authorType', 'authorHeadline', 'authorName', 'authorProfileUrl', 'authorUrn', 'postedAtTimestamp', 'postedAtISO', 'inputUrl']
+
+Detailed field types:
+  - type: str (value: 'image')
+  - images: list (length: 1)
+  - isActivity: bool (value: False)
+  - urn: str (value: 'urn:li:activity:7397317909485637633')
+  - url: str (sample: 'https://www.linkedin.com/posts/timothydraper_i-lov...')
+  - timeSincePosted: str (value: '2d')
+  - shareUrn: str (value: 'urn:li:share:7397317905568317440')
+  - text: str (sample: 'I loved Brian Armstrong from the moment he walked ...')
+  - attributes: list (length: 4)
+  - comments: list (length: 0)
+  - reactions: list (length: 0)
+  - numShares: int (value: 3)
+  - numLikes: int (value: 128)
+  - numComments: int (value: 13)
+  - canReact: bool (value: True)
+  - canPostComments: bool (value: True)
+  - canShare: bool (value: True)
+  - commentingDisabled: bool (value: False)
+  - allowedCommentersScope: str (value: 'ALL')
+  - rootShare: bool (value: True)
+  - shareAudience: str (value: 'PUBLIC')
+  - author: dict (length: 9)
+  - authorProfileId: str (value: 'timothydraper')
+  - authorProfilePicture: str (sample: 'https://media.licdn.com/dms/image/v2/D5603AQHrlc-L...')
+  - authorType: str (value: 'Person')
+  - authorHeadline: str (sample: 'Funding the future first | Founder at Draper Assoc...')
+  - authorName: str (value: 'Tim Draper')
+  - authorProfileUrl: str (sample: 'https://www.linkedin.com/in/timothydraper?miniProf...')
+  - authorUrn: str (value: 'urn:li:member:177619')
+  - postedAtTimestamp: int (value: 1763658025142)
+  - postedAtISO: str (value: '2025-11-20T17:00:25.142Z')
+  - inputUrl: str (value: 'https://www.linkedin.com/in/timothydraper')
+
+
+All unique fields across all items: ['activityDescription', 'activityOfUser', 'allowedCommentersScope', 'article', 'attributes', 'author', 'authorFollowersCount', 'authorHeadline', 'authorName', 'authorProfileId', 'authorProfilePicture', 'authorProfileUrl', 'authorType', 'authorUrn', 'canPostComments', 'canReact', 'canShare', 'commentingDisabled', 'comments', 'document', 'event', 'images', 'inputUrl', 'isActivity', 'linkedinVideo', 'numComments', 'numLikes', 'numShares', 'poll', 'postedAtISO', 'postedAtTimestamp', 'reactions', 'resharedPost', 'rootShare', 'shareAudience', 'shareUrn', 'text', 'timeSincePosted', 'type', 'url', 'urn']
+Total unique fields: 41
+
+================================================================================
+FIELD STATISTICS
+================================================================================
+
+activityDescription:
+  Present in: 4181/11227 items (37.2%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 4181}
+  Samples:
+    1. Tim Draper reposted this
+    2. Tim Draper reposted this
+    3. Deedy Das reposted this
+
+activityOfUser:
+  Present in: 4181/11227 items (37.2%)
+  Null/Empty: 0 (0.0%)
+  Types: {'dict': 4181}
+  Samples:
+    1. dict with 9 items
+    2. dict with 9 items
+    3. dict with 9 items
+
+allowedCommentersScope:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 11227}
+  Samples:
+    1. ALL
+    2. ALL
+    3. ALL
+
+article:
+  Present in: 1625/11227 items (14.5%)
+  Null/Empty: 0 (0.0%)
+  Types: {'dict': 1625}
+  Samples:
+    1. dict with 4 items
+    2. dict with 4 items
+    3. dict with 4 items
+
+attributes:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'list': 11227}
+  Samples:
+    1. list with 4 items
+    2. list with 9 items
+    3. list with 4 items
+
+author:
+  Present in: 11210/11227 items (99.8%)
+  Null/Empty: 0 (0.0%)
+  Types: {'dict': 11210}
+  Samples:
+    1. dict with 9 items
+    2. dict with 9 items
+    3. dict with 9 items
+
+authorFollowersCount:
+  Present in: 1146/11227 items (10.2%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 1146}
+  Samples:
+    1. 70,384
+    2. 9,092
+    3. 601,753
+
+authorHeadline:
+  Present in: 10081/11227 items (89.8%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 10081}
+  Samples:
+    1. Funding the future first | Founder at Draper Associates / DFJ / Draper University
+    2. Partner, Draper Associates | Founding partner, Draper Dragon
+    3. Funding the future first | Founder at Draper Associates / DFJ / Draper University
+
+authorName:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 11227}
+  Samples:
+    1. Tim Draper
+    2. Andy Tang
+    3. Tim Draper
+
+authorProfileId:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 11227}
+  Samples:
+    1. timothydraper
+    2. andytangvc
+    3. timothydraper
+
+authorProfilePicture:
+  Present in: 10411/11227 items (92.7%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 10411}
+  Samples:
+    1. https://media.licdn.com/dms/image/v2/D5603AQHrlc-LQY2D3w/profile-displayphoto-scale_200_200/B56Zfaf....
+    2. https://media.licdn.com/dms/image/v2/D5603AQF3GHtc5zpUdw/profile-displayphoto-shrink_100_100/B56ZTVC...
+    3. https://media.licdn.com/dms/image/v2/D5603AQHrlc-LQY2D3w/profile-displayphoto-scale_200_200/B56Zfaf....
+
+authorProfileUrl:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 11227}
+  Samples:
+    1. https://www.linkedin.com/in/timothydraper?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAACtdMBLOF...
+    2. https://www.linkedin.com/in/andytangvc?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAABAbQBADRx8b...
+    3. https://www.linkedin.com/in/timothydraper?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAACtdMBLOF...
+
+authorType:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 11227}
+  Samples:
+    1. Person
+    2. Person
+    3. Person
+
+authorUrn:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 11227}
+  Samples:
+    1. urn:li:member:177619
+    2. urn:li:member:65972
+    3. urn:li:member:177619
+
+canPostComments:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'bool': 11227}
+  Samples:
+    1. True
+    2. True
+    3. True
+
+canReact:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'bool': 11227}
+  Samples:
+    1. True
+    2. True
+    3. True
+
+canShare:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'bool': 11227}
+  Samples:
+    1. True
+    2. True
+    3. True
+
+commentingDisabled:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'bool': 11227}
+  Samples:
+    1. False
+    2. False
+    3. False
+
+comments:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'list': 11227}
+
+document:
+  Present in: 84/11227 items (0.7%)
+  Null/Empty: 0 (0.0%)
+  Types: {'dict': 84}
+  Samples:
+    1. dict with 3 items
+    2. dict with 3 items
+    3. dict with 3 items
+
+event:
+  Present in: 5/11227 items (0.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'dict': 5}
+  Samples:
+    1. dict with 4 items
+    2. dict with 4 items
+    3. dict with 4 items
+
+images:
+  Present in: 3970/11227 items (35.4%)
+  Null/Empty: 0 (0.0%)
+  Types: {'list': 3970}
+  Samples:
+    1. list with 1 items
+    2. list with 3 items
+    3. list with 1 items
+
+inputUrl:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 11227}
+  Samples:
+    1. https://www.linkedin.com/in/timothydraper
+    2. https://www.linkedin.com/in/timothydraper
+    3. https://www.linkedin.com/in/timothydraper
+
+isActivity:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'bool': 11227}
+  Samples:
+    1. False
+    2. True
+    3. False
+
+linkedinVideo:
+  Present in: 1620/11227 items (14.4%)
+  Null/Empty: 0 (0.0%)
+  Types: {'dict': 1620}
+  Samples:
+    1. dict with 1 items
+    2. dict with 1 items
+    3. dict with 1 items
+
+numComments:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'int': 11227}
+  Samples:
+    1. 13
+    2. 14
+    3. 24
+
+numLikes:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'int': 11227}
+  Samples:
+    1. 128
+    2. 195
+    3. 239
+
+numShares:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'int': 11227}
+  Samples:
+    1. 3
+    2. 7
+    3. 7
+
+poll:
+  Present in: 26/11227 items (0.2%)
+  Null/Empty: 0 (0.0%)
+  Types: {'dict': 26}
+  Samples:
+    1. dict with 3 items
+    2. dict with 3 items
+    3. dict with 3 items
+
+postedAtISO:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 11227}
+  Samples:
+    1. 2025-11-20T17:00:25.142Z
+    2. 2025-11-20T16:45:35.935Z
+    3. 2025-11-19T17:00:08.706Z
+
+postedAtTimestamp:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'int': 11227}
+  Samples:
+    1. 1763658025142
+    2. 1763657135935
+    3. 1763571608706
+
+reactions:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'list': 11227}
+
+resharedPost:
+  Present in: 2405/11227 items (21.4%)
+  Null/Empty: 0 (0.0%)
+  Types: {'dict': 2405}
+  Samples:
+    1. dict with 29 items
+    2. dict with 30 items
+    3. dict with 30 items
+
+rootShare:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'bool': 11227}
+  Samples:
+    1. True
+    2. True
+    3. True
+
+shareAudience:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 11227}
+  Samples:
+    1. PUBLIC
+    2. PUBLIC
+    3. PUBLIC
+
+shareUrn:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 11227}
+  Samples:
+    1. urn:li:share:7397317905568317440
+    2. urn:li:ugcPost:7397313732470722560
+    3. urn:li:share:7396955451696832512
+
+text:
+  Present in: 11213/11227 items (99.9%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 11213}
+  Samples:
+    1. I loved Brian Armstrong from the moment he walked into my office, but I had already invested in Coin...
+    2. Another great demo day from Draper University!! One of our best yet. By the numbers:
+竊陳 66 pitches
+竊・..
+    3. Tom Williams came to us with no business plan. He was the first one to only provide a PowerPoint dec...
+
+timeSincePosted:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 11227}
+  Samples:
+    1. 2d
+    2. 2d
+    3. 3d
+
+type:
+  Present in: 11158/11227 items (99.4%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 11158}
+  Samples:
+    1. image
+    2. image
+    3. image
+
+url:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 11227}
+  Samples:
+    1. https://www.linkedin.com/posts/timothydraper_i-loved-brian-armstrong-from-the-moment-he-activity-739...
+    2. https://www.linkedin.com/posts/andytangvc_another-great-demo-day-from-draper-university-ugcPost-7397...
+    3. https://www.linkedin.com/posts/timothydraper_tom-williams-came-to-us-with-no-business-activity-73969...
+
+urn:
+  Present in: 11227/11227 items (100.0%)
+  Null/Empty: 0 (0.0%)
+  Types: {'str': 11227}
+  Samples:
+    1. urn:li:activity:7397317909485637633
+    2. urn:li:activity:7397314179881263104
+    3. urn:li:activity:7396955452682563585
+
+================================================================================
+ADDITIONAL STATISTICS
+================================================================================
+
+text:
+  Total non-empty: 11213
+  Avg length: 715.0 chars
+  Min length: 1 chars
+  Max length: 3000 chars
+
+timeSincePosted:
+  Total non-empty: 11227
+  Avg length: 3.0 chars
+  Min length: 2 chars
+  Max length: 4 chars
+
+author:
+
+authorName:
+  Total non-empty: 11227
+  Avg length: 12.5 chars
+  Min length: 3 chars
+  Max length: 52 chars
+
+numLikes:
+  Min: 1
+  Max: 20685
+  Average: 287.26
+  Total: 3224247
+
+numShares:
+  Min: 1
+  Max: 4235
+  Average: 17.50
+  Total: 153186
+
+postedAtTimestamp:
+  Min: 1732235225461
+  Max: 1763850125035
+  Average: 1749295103930.75
+  Total: 19639336131830520
+
+url:
+  Total non-empty: 11227
+  Avg length: 220.4 chars
+  Min length: 167 chars
+  Max length: 496 chars
+
+================================================================================
+SUMMARY
+================================================================================
+Total items: 11227
+Total unique fields: 41
+Average fields per item: 32.5

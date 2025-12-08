@@ -1,0 +1,5 @@
+time_of_day,post_count,avg_engagement,median_engagement,total_engagement
+Afternoon (UTC),5258,325.71,127.0,1712580
+Evening (UTC),2736,312.31,98.0,854468
+Morning (UTC),955,370.76,124.0,354075
+Night (UTC),2278,332.57,107.5,757596
